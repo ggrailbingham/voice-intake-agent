@@ -1,0 +1,73 @@
+{
+  "CA": {
+    "name": "California",
+    "min_primary_age": 18,
+    "max_dependent_age": 25
+  },
+  "NY": {
+    "name": "New York",
+    "min_primary_age": 18,
+    "max_dependent_age": 29
+  },
+  "TX": {
+    "name": "Texas",
+    "min_primary_age": 18,
+    "max_dependent_age": 26
+  },
+  "FL": {
+    "name": "Florida",
+    "min_primary_age": 18,
+    "max_dependent_age": 26
+  },
+  "IL": { "name": "Illinois",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "PA": { "name": "Pennsylvania",   "min_primary_age": 18, "max_dependent_age": 26 },
+  "OH": { "name": "Ohio",           "min_primary_age": 18, "max_dependent_age": 26 },
+  "GA": { "name": "Georgia",        "min_primary_age": 18, "max_dependent_age": 26 },
+  "NC": { "name": "North Carolina", "min_primary_age": 18, "max_dependent_age": 26 },
+  "MI": { "name": "Michigan",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "NJ": { "name": "New Jersey",     "min_primary_age": 18, "max_dependent_age": 26 },
+  "VA": { "name": "Virginia",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "WA": { "name": "Washington",     "min_primary_age": 18, "max_dependent_age": 26 },
+  "AZ": { "name": "Arizona",        "min_primary_age": 18, "max_dependent_age": 26 },
+  "MA": { "name": "Massachusetts",  "min_primary_age": 18, "max_dependent_age": 26 },
+  "TN": { "name": "Tennessee",      "min_primary_age": 18, "max_dependent_age": 26 },
+  "IN": { "name": "Indiana",        "min_primary_age": 18, "max_dependent_age": 26 },
+  "MO": { "name": "Missouri",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "MD": { "name": "Maryland",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "WI": { "name": "Wisconsin",      "min_primary_age": 18, "max_dependent_age": 26 },
+  "CO": { "name": "Colorado",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "MN": { "name": "Minnesota",      "min_primary_age": 18, "max_dependent_age": 26 },
+  "SC": { "name": "South Carolina", "min_primary_age": 18, "max_dependent_age": 26 },
+  "AL": { "name": "Alabama",        "min_primary_age": 18, "max_dependent_age": 26 },
+  "LA": { "name": "Louisiana",      "min_primary_age": 18, "max_dependent_age": 26 },
+  "KY": { "name": "Kentucky",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "OR": { "name": "Oregon",         "min_primary_age": 18, "max_dependent_age": 26 },
+  "OK": { "name": "Oklahoma",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "CT": { "name": "Connecticut",    "min_primary_age": 18, "max_dependent_age": 26 },
+  "UT": { "name": "Utah",           "min_primary_age": 18, "max_dependent_age": 26 },
+  "IA": { "name": "Iowa",           "min_primary_age": 18, "max_dependent_age": 26 },
+  "NV": { "name": "Nevada",         "min_primary_age": 18, "max_dependent_age": 26 },
+  "AR": { "name": "Arkansas",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "MS": { "name": "Mississippi",    "min_primary_age": 18, "max_dependent_age": 26 },
+  "KS": { "name": "Kansas",         "min_primary_age": 18, "max_dependent_age": 26 },
+  "NM": { "name": "New Mexico",     "min_primary_age": 18, "max_dependent_age": 26 },
+  "NE": { "name": "Nebraska",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "WV": { "name": "West Virginia",  "min_primary_age": 18, "max_dependent_age": 26 },
+  "ID": { "name": "Idaho",          "min_primary_age": 18, "max_dependent_age": 26 },
+  "HI": { "name": "Hawaii",         "min_primary_age": 18, "max_dependent_age": 26 },
+  "NH": { "name": "New Hampshire",  "min_primary_age": 18, "max_dependent_age": 26 },
+  "ME": { "name": "Maine",          "min_primary_age": 18, "max_dependent_age": 26 },
+  "MT": { "name": "Montana",        "min_primary_age": 18, "max_dependent_age": 26 },
+  "RI": { "name": "Rhode Island",   "min_primary_age": 18, "max_dependent_age": 26 },
+  "DE": { "name": "Delaware",       "min_primary_age": 18, "max_dependent_age": 26 },
+  "SD": { "name": "South Dakota",   "min_primary_age": 18, "max_dependent_age": 26 },
+  "ND": { "name": "North Dakota",   "min_primary_age": 18, "max_dependent_age": 26 },
+  "AK": { "name": "Alaska",         "min_primary_age": 18, "max_dependent_age": 26 },
+  "VT": { "name": "Vermont",        "min_primary_age": 18, "max_dependent_age": 26 },
+  "WY": { "name": "Wyoming",        "min_primary_age": 18, "max_dependent_age": 26 },
+  "DEFAULT": {
+    "name": "Standard",
+    "min_primary_age": 18,
+    "max_dependent_age": 26
+  }
+}
